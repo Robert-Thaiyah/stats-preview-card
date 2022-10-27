@@ -16,8 +16,6 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-
-
 ## Overview
 
 To replicate the original solution with my version of it.
@@ -35,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Git Repo](https://github.com/Robert-Thaiyah/stats-preview-card)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Live site URL](https://robert-thaiyah.github.io/stats-preview-card/)
 
 ## My process
 
@@ -58,7 +56,7 @@ Users should be able to:
 
 ### Useful resources
 
-- [Picture Semantic](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/picture) - A good resource about the <picture> element. 
+- [Picture Semantic](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/picture) - A good resource about the picture element. 
 - [Media Queries](https://css-tricks.com/a-complete-guide-to-css-media-queries/) - A brief introduction to media queries and how to implement them into the CSS structure.
 
 ## Author
